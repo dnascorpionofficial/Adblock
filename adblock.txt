@@ -6,8 +6,11 @@
 0.0.0.0 www.ed4abf.launches.appsflyersdk.com
 0.0.0.0 www.api.bitdrift.io
 0.0.0.0 www.abgvtnbaaaaaaaamaea7lvph23o36.live-ssai-cf-mum-ace.cdn.hotstar.com
+0.0.0.0 abbwpeeaaaaaaaamaea7lvph23o36.live-sgai-n-cf-mum.cdn.hotstar.com
 0.0.0.0 www.live-ssai-cf-mum-9.cdn.hotstar.com
 0.0.0.0 www.live14p-ssai-akt-mum.cdn.hotstar.com
 0.0.0.0 www.live-sgai-n-cf-mum-child.cdn.hotstar.com
+
+
 
 ####
