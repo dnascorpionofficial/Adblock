@@ -1,2 +1,2 @@
 # Adblock
-Custom Host
+Added some ads host whatever i found when using.
