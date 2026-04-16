@@ -1,2 +1,2 @@
 # Adblock
-Added some ads host whatever i found when using.
+Added some ads host i found when using some apps
