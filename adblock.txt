@@ -17,7 +17,6 @@
 0.0.0.0 live14p-ssai-akt-mum.cdn.hotstar.com
 0.0.0.0 www.live-sgai-n-cf-mum-child.cdn.hotstar.com
 0.0.0.0 www.live-ssai-airtel-mum.cdn.hotstar.com
-0.0.0.0 www.ueu3u3u3u.com
 
 
 ####
