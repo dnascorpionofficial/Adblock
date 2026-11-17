@@ -1,0 +1,4 @@
+service.hotstar.com
+bifrost-api.hotstar.com
+api-jiostar.bitdrift.io
+shifu.hotstarext.com
